@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Kayaks
+title: NRS pump
+subject: Extras
 subtitle: A nicely engineered contact tow
-short_title:  NDK Sport
+short_title:  NRS Pump
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

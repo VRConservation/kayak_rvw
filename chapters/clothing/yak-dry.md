@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Safety
+title: Yak Drysuit
+subject: Clothing
 subtitle: A nicely engineered contact tow
-short_title:  MK11 contact tow
+short_title:  Yak Drysuit
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

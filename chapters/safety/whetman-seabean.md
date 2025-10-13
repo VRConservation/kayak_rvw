@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
+title: Whetman Sea Bean
 subject: Safety
-subtitle: A nicely engineered contact tow
-short_title:  MK11 contact tow
+subtitle: Cornish pasty sized towline is easy to use and repack
+short_title:  Sea Bean towline
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com
@@ -14,21 +14,24 @@ kernelspec:
 
 | **PROS**    | **CONS**  |
 |-------------------|-----------|
-| 🟢 Pro 1 | 🟡 Con 1 |
-| 🟢  | 🟡 |
-| 🟢 | 🟡 |
+| 🟢 Easy to use | 🟡 Pricey |
+| 🟢 Compact | 🟡 Needs loop to hold tail |
+| 🟢 Well engineered | 🟡 Carabiner moves from attachment|
 
 # Summary
-The name of kit and 2-3 sentence summary
+Whetman Sea Bean
+Pricey, but what cost safety?
+
+Site does say to cut the tail, however
 
 # Buyer
 Who's it for?
 
 # Specs
-Cost: 
+Cost: £74.96
 
 Weight: 
 
-URL: 
+URL: https://www.whetmanequipment.com/sea-bean-towline.html#/
 
 Review date: DD Month Year

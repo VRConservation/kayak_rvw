@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Safety
+title: P&H Valkyrie
+subject: Kayaks
 subtitle: A nicely engineered contact tow
-short_title:  MK11 contact tow
+short_title:  P&H Valkyrie
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

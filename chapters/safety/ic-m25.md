@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Kayaks
+title: Icom IC-M25 VHF
+subject: Safety
 subtitle: A nicely engineered contact tow
-short_title:  NDK Sport
+short_title:  Icom IC-M25 VHF
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
+title: Palm Quick Tow
 subject: Safety
 subtitle: A nicely engineered contact tow
-short_title:  MK11 contact tow
+short_title:  Palm towline
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

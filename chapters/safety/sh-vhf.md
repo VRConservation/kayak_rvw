@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Kayaks
-subtitle: A nicely engineered contact tow
-short_title:  NDK Sport
+title: Standard Horizon HX210E VHF
+subject: Safety
+subtitle: Not waterproof VHF that fails when you need it
+short_title:  SH-HX210E VHF
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

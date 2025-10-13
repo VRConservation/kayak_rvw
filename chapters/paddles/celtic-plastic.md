@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Safety
+title: Celtic Nylon
+subject: Paddles
 subtitle: A nicely engineered contact tow
-short_title:  MK11 contact tow
+short_title:  Celtic Nylon
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com

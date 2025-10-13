@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Kayaks
+title: Whetman Hatch Covers
+subject: Extras
 subtitle: A nicely engineered contact tow
-short_title:  NDK Sport
+short_title:  Hatches
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com
@@ -29,6 +29,6 @@ Cost:
 
 Weight: 
 
-URL: 
+URL: https://www.whetmanequipment.com/sea-kayak-hatch-cover.html#
 
 Review date: DD Month Year

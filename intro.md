@@ -1,8 +1,8 @@
 ---
-title: Whetman Sea Contact Tow MK11
-subject: Safety
-subtitle: A nicely engineered contact tow
-short_title:  MK11 contact tow
+title: Introduction
+subject: Gear
+subtitle: Brief reviews of key sea kayaking equipment
+short_title:  Introduction
 authors:
   - name: Vance Russell
     email: connor3089ut@gmail.com
@@ -28,7 +28,8 @@ Followed by a summary, who the gear is for, and brief specs
 # Chapters
 The book is organized into broad categorical chapters featuring equipment we have tried in each category. It isn't an exhaustive list, rather it's meant to feature commonly used or needed items and items that we have actually worn on numerous trips from flatwater to tideraces and other advanced conditions. The chapters are organized in the following manner:
 
-1. Clothing
-2. Kayaks
-3. Paddles
-4. Safety gear
+1. **Clothing**.
+2. **Extras**.
+3. **Kayaks**.
+4. **Paddles**.
+5. **Safety gear**.

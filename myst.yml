@@ -24,6 +24,8 @@ project:
       children:
         - title: Clothing
           children:
+            - file: chapters/clothing/lomo-boots.md
+            - file: chapters/clothing/sweet.md
             - file: chapters/clothing/nrs-cag.md
             - file: chapters/clothing/peak-pants.md
             - file: chapters/clothing/yak-dry.md

@@ -43,6 +43,7 @@ project:
             - file: chapters/paddles/celtic-carbon.md
             - file: chapters/paddles/celtic-plastic.md
             - file: chapters/paddles/werner-kalliste.md
+            - file: chapters/paddles/werner-gara.md
         - title: Safety
           children:
             - file: chapters/safety/ic-m25.md

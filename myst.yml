@@ -25,9 +25,9 @@ project:
         - title: Clothing
           children:
             - file: chapters/clothing/lomo-boots.md
-            - file: chapters/clothing/sweet.md
             - file: chapters/clothing/nrs-cag.md
             - file: chapters/clothing/peak-pants.md
+            - file: chapters/clothing/sweet.md
             - file: chapters/clothing/yak-dry.md
         - title: Extras
           children:
@@ -42,12 +42,14 @@ project:
           children:
             - file: chapters/paddles/celtic-carbon.md
             - file: chapters/paddles/celtic-plastic.md
+            - file: chapters/paddles/gara.md
             - file: chapters/paddles/werner-kalliste.md
-            - file: chapters/paddles/werner-gara.md
         - title: Safety
           children:
+            - file: chapters/safety/astral-ba.md
             - file: chapters/safety/ic-m25.md
             - file: chapters/safety/palm-tow.md
+            - file: chapters/safety/peak-ba.md
             - file: chapters/safety/sh-vhf.md
             - file: chapters/safety/whetman-contact.md
             - file: chapters/safety/whetman-seabean.md

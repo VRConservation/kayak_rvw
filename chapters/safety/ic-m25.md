@@ -1,7 +1,7 @@
 ---
 title: Icom IC-M25 VHF
 subject: Safety
-subtitle: A nicely engineered contact tow
+subtitle: A soldi easy to use VHF
 short_title:  Icom IC-M25 VHF
 authors:
   - name: Vance Russell
